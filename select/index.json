@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ギガアイシテル",
+  "base_artist": "レキシ",
+  "createdAt": "2026-01-12T09:44:19.277310Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ギガアイシテル",
+      "artist": "レキシ",
+      "has_synced": false,
+      "path": "select/pl_01_ギガアイシテル_レキシ.txt"
+    }
+  ]
+}
